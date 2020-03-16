@@ -1,0 +1,32 @@
+htm,
+body {
+    background-color: rgb(7, 7, 7);
+    margin-left: 600px;
+    padding: 0;
+}
+
+h1 {
+    margin: 650px;
+    font-size: 50px;
+}
+
+.box {
+    /* padding: 20px; */
+    margin: 30px;
+}
+
+.image {
+    max-width: 100%;
+    border-radius: 8px;
+}
+
+.button {
+    color: rgb(17, 114, 240);
+    background-color: rgb(240, 229, 72);
+    padding: 10px;
+    text-decoration: none;
+}
+
+img {
+    width: 50%;
+}
